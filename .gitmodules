@@ -1,0 +1,6 @@
+[submodule "product-review-block"]
+	path = product-review-block
+	url = https://github.com/nftushar/product-review-block.git
+[submodule "circle-progress-block"]
+	path = circle-progress-block
+	url = https://github.com/nftushar/circle-progress-block.git

@@ -22,9 +22,6 @@
 [submodule "Shapes-Divider-Guten"]
 	path = Shapes-Divider-Guten
 	url = https://github.com/nftushar/Shapes-Divider-Guten.git
-[submodule "Faq-Guten-Plugin"]
-	path = Faq-Guten-Plugin
-	url = https://github.com/nftushar/Faq-Guten-Plugin.git
 [submodule "tabbed-content"]
 	path = tabbed-content
 	url = https://github.com/nftushar/tabbed-content.git

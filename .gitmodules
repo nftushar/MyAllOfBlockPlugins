@@ -4,3 +4,30 @@
 [submodule "circle-progress-block"]
 	path = circle-progress-block
 	url = https://github.com/nftushar/circle-progress-block.git
+[submodule "Star-Rating-block"]
+	path = Star-Rating-block
+	url = https://github.com/nftushar/Star-Rating-block.git
+[submodule "info-cards"]
+	path = info-cards
+	url = https://github.com/nftushar/info-cards.git
+[submodule "blockQuote-Block"]
+	path = blockQuote-Block
+	url = https://github.com/nftushar/blockQuote-Block.git
+[submodule "tabbed-content-block"]
+	path = tabbed-content-block
+	url = https://github.com/nftushar/tabbed-content-block.git
+[submodule "iframe-gutenberg-plugin"]
+	path = iframe-gutenberg-plugin
+	url = https://github.com/nftushar/iframe-gutenberg-plugin.git
+[submodule "Shapes-Divider-Guten"]
+	path = Shapes-Divider-Guten
+	url = https://github.com/nftushar/Shapes-Divider-Guten.git
+[submodule "Faq-Guten-Plugin"]
+	path = Faq-Guten-Plugin
+	url = https://github.com/nftushar/Faq-Guten-Plugin.git
+[submodule "tabbed-content"]
+	path = tabbed-content
+	url = https://github.com/nftushar/tabbed-content.git
+[submodule "b-portfolio-react-guten"]
+	path = b-portfolio-react-guten
+	url = https://github.com/nftushar/b-portfolio-react-guten.git
